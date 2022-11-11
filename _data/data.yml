@@ -81,47 +81,114 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Economics teacher
-        time: 2022 - present
-        company: Andreas College Pieter Groen
+      - role: Lead Developer
+        time: 2015 - Present
+        company: Startup Hubs, San Francisco
         details: |
-             Teaching economics to high school students aged 13-17. Temporarily taking this job while searching for an industry related job and out of curiousity.
-      - role: Graduate level student assistent
-        time: 2021 - 2022
-        company: Tinbergen Institute
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
+          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
+          error sit voluptatem accusantium doloremque laudantium, totam rem
+          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
+          architecto beatae vitae dicta sunt explicabo.
+            - Bullet point
+            - Bullet point
+      - role: Senior Software Engineer
+        time: 2014 - 2015
+        company: Google, London
         details: |
-          I have taught programming in Python and Corporate Finance at graduate level to Tinbergen Institute and Business and Data Science students.
-      - role: University Research Fellow
-        time: 2019 - 2020
-        company: Vrije Universiteit (VU) Amsterdam
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+      - role: UI Developer
+        time: 2012 - 2014
+        company: Amazon, London
         details: |
-          As a University Research Fellow (URF) I have worked on various research projects together with prof. dr. Albert Menkveld. In particular
-          I worked on a paper, which later became by bachelor's thesis, about the impact of Covid-19 on financial markets using state of the art time series models like 
-          Vector Autoregressive and Vector Error Correction models. As a URF I worked mostly in Python.          
-      - role: Student representative
-        time: 2017 - 2020
-        company: Vrije Universiteit (VU) Amsterdam
-        details: |
-            As a student representative I have informed groups ranging from 50 till 300 students about studying economics and business economics at the Vrije Universiteit.
-        - role: Student-member programme committee economics and business economics
-          time: 2017 - 2020
-          company: Vrije Universiteit (VU) Amsterdam
-          details: |
-             I was a member of the programme committee of economics and business economics, in which my main role was to advise the programme
-             director and programme management of the bachelor economics and business economics about various topics in education.
+          Describe your role here lorem ipsum dolor sit amet, consectetuer
+          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
+          Cum sociis natoque penatibus et magnis dis parturient montes,
+          nascetur ridiculus mus. Donec quam felis, ultricies nec,
+          pellentesque eu, pretium quis, sem.
+            - Bullet point
+            - Bullet point
+projects:
+    title: Projects
+    intro: >
+      You can list your side projects or open source libraries in this
+      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    assignments:
+      - title: Velocity
+        link: "#hook"
+        tagline: "A responsive website template designed to help startups promote, market and sell their products."
+
+      - title: DevStudio
+        link: "#"
+        tagline: "A responsive website template designed to help web developers/designers market their services."
+
+      - title: Tempo
+        link: "#"
+        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+
+      - title: Atom
+        link: "#"
+        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+
+      - title: Delta
+        link: "#"
+        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+publications:
+    title: Publications
+    intro: |
+      You can list your publications in this section. Lorem ipsum dolor sit
+      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+      bibendum fringilla a eu lectus.
+    papers:
+      - title: The Art of Computer Programming
+        link: "#"
+        authors: Donald E. Knuth
+        conference: Addison-Wesley, 1968
+
+      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+        link: "#"
+        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+      - title: A syntax directed compiler for Algol 60
+        link: "#"
+        authors: Edgar T. Irons
+        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python, R, MATLAB, LaTeX
-        level: 100%
+      - name: Python & Django
+        level: 98%
 
-      - name: Julia
-        level: 70%
-      
-      - name: SQL
-        level: 30%
+      - name: Javascript & jQuery
+        level: 98%
+
+      - name: Angular
+        level: 98%
+
+      - name: HTML5 & CSS
+        level: 95%
+
+      - name: Ruby on Rails
+        level: 85%
+
+      - name: Sketch & Photoshop
+        level: 60%
+
 
 footer: >
     Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
