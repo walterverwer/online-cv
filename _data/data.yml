@@ -81,9 +81,9 @@ experiences:
     title: Experiences
     info:
     - role: Economics teacher
-        time: 2022 - present
-        company: Andreas College Pieter Groen
-        details: |
+      time: 2022 - present
+      company: Andreas College Pieter Groen
+      details: |
           Teaching economics to high school students aged 13-17. Temporarily taking this job while searching for an industry related job and out of curiousity.
       - role: Graduate level student assistent
         time: 2021 - 2022
@@ -103,11 +103,11 @@ experiences:
         details: |
             As a student representative I have informed groups ranging from 50 till 300 students about studying economics and business economics at the Vrije Universiteit.
         - role: Student-member programme committee economics and business economics
-        time: 2017 - 2020
-        company: Vrije Universiteit (VU) Amsterdam
-        details: |
-            I was a member of the programme committee of economics and business economics, in which my main role was to advise the programme
-            director and programme management of the bachelor economics and business economics about various topics in education.
+          time: 2017 - 2020
+          company: Vrije Universiteit (VU) Amsterdam
+          details: |
+             I was a member of the programme committee of economics and business economics, in which my main role was to advise the programme
+             director and programme management of the bachelor economics and business economics about various topics in education.
 
 skills:
     title: Skills &amp; Proficiency
