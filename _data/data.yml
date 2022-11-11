@@ -103,12 +103,26 @@ experiences:
         company: Vrije Universiteit (VU) Amsterdam
         details: |
             As a student representative I have informed groups ranging from 50 till 300 students about studying economics and business economics at the Vrije Universiteit.
-      - role: Student-member programme committee economics and business economics
+      - role: Programme committee member
         time: 2017 - 2020
         company: Vrije Universiteit (VU) Amsterdam
         details: |
-            I was a member of the programme committee of economics and business economics, in which my main role was to advise the programme
+            I was a (paid) member of the programme committee of economics and business economics, in which my main role was to advise the programme
             director and programme management of the bachelor economics and business economics about various topics in education.
+
+publications:
+    title: Grants & Scholarships
+    papers:
+      - title: University Research Fellowship scholarship
+        link:
+        authors: €10.000
+        conference:
+
+      - title: Tinbergen Institute study grant
+        link:
+        authors: €7.080 & tuition waiver
+        conference:
+
 skills:
     title: Skills &amp; Proficiency
 
