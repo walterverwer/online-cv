@@ -9,7 +9,7 @@ sidebar:
     # Profile information
     name: Walter Verwer
     tagline: Financial Econometrician
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profiel_foto.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
     email: walterverwer@gmail.com
