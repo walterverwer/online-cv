@@ -57,7 +57,7 @@ career-profile:
       My working experience has been both in theoretical and empirical financial research. For example, empirically I have conducted research into the impact of
       Covid-19 on trading flows in future markets using Vector Autoregressive (VAR) and Vector Error Correction (VECM) models. Theoretically I have developed a
       continuous-time investment model with ESG investors. This model developped by me during my master at Tinbergen Institute is simulated using Ordinary Differential
-      Equation solvers to show how environmental regulation and investors' preferences for ESG affect sustainable investments. For my work I have been awarded various
+      Equation (ODE) solvers to show how environmental regulation and investors' preferences for ESG affect sustainable investments. For my work I have been awarded various
       scholarships and research grants (in total approximately €20.000). I have declined a PhD position at Erasmus University Rotterdam to search for a job in industry.
       Currently I am working as a teacher in a high school while I am searching for a job in industry.
 education:
