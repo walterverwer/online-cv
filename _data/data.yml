@@ -7,47 +7,44 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Walter Verwer
+    tagline: Financial Econometrician from Tinbergen Institute
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: walterverwer@gmail.com
+    phone: +31 6 445 484 11
+    timezone: Amsterdam (GMT +1)
+    citizenship: Dutch
+    website: sites.google.com/view/walterverwer #do not add http://
+    linkedin: walterverwer
+    xing: 
+    github: walterverwer
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: 
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: # http://www.africau.edu/images/default/sample.pdf
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Dutch
           level: Native
 
-        - idiom: French
-          level: Professional
-
-        - idiom: Spanish
+        - idiom: English
           level: Professional
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Bouldering
           link:
 
-        - item: Snowboarding
+        - item: Skiing
           link:
 
         - item: Cooking
@@ -56,37 +53,30 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      I am a recent graduate from Tinbergen Institute. At Tinbergen Institute I specialized in finance and econometrics. 
+      My working experience has been both in theoretical and empirical financial research. For example, empirically I have conducted research into the impact of
+      Covid-19 on trading flows in future markets using Vector Autoregressive (VAR) and Vector Error Correction (VECM) models. Theoretically I have developed a
+      continuous-time investment model with ESG investors. This model developped by me during my master at Tinbergen Institute is simulated using Ordinary Differential
+      Equation solvers to show how environmental regulation and investors' preferences for ESG affect sustainable investments. For my work I have been awarded various
+      scholarships and research grants (in total approximately €20.000). I have declined a PhD position at Erasmus University Rotterdam to search for a job in industry.
+      Currently I am working as a teacher in a high school while I am searching for a job in industry.
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MPhil Economics, Econometrics and Finance
+        university: Tinbergen Institute
+        time: 2020 - 2022
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+          Tinbergen Institute (TI) is the graduate school and research institute operated jointly by the Schools of Economics and Econometrics of Erasmus
+          University Rotterdam (EUR), University of Amsterdam (UvA) and Vrije Universiteit Amsterdam (VU). Tinbergen Institute offers a selective research master 
+          program in economics, econometrics and finance, connected to PhD opportunities. I have specialized in finance and econometrics.
+      - degree: BSc in Economics and Business Economics (cum laude)
+        university: Vrije Universiteit (VU) Amsterdam
+        time: 2017 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+          During my studies I have specialized in finance and econometrics. I have swapped econometrics courses with courses from my bachelor, and I have
+          finished a minor in econometrics. Next to coursework I worked for one year as a University Research Fellowship with prof. dr. Albert Menkveld.
+          We conducted research in the impact of Covid-19 on financial markets using state of the art time series models.
 experiences:
     title: Experiences
     info:
