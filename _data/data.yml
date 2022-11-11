@@ -80,11 +80,11 @@ education:
 experiences:
     title: Experiences
     info:
-    - role: Economics teacher
-      time: 2022 - present
-      company: Andreas College Pieter Groen
-      details: |
-          Teaching economics to high school students aged 13-17. Temporarily taking this job while searching for an industry related job and out of curiousity.
+      - role: Economics teacher
+        time: 2022 - present
+        company: Andreas College Pieter Groen
+        details: |
+             Teaching economics to high school students aged 13-17. Temporarily taking this job while searching for an industry related job and out of curiousity.
       - role: Graduate level student assistent
         time: 2021 - 2022
         company: Tinbergen Institute
