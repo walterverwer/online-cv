@@ -127,7 +127,7 @@ skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python, R, MATLAB, LaTeX
+      - name: Python, R, MATLAB, Git, LaTeX
         level: 100%
 
       - name: Julia
