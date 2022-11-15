@@ -65,14 +65,14 @@ education:
     info:
       - degree: MPhil Economics, Econometrics and Finance
         university: Tinbergen Institute
-        time: 2020 - 2022
+        time: Sep 2020 - Aug 2022
         details: |
           Tinbergen Institute (TI) is the graduate school and research institute operated jointly by the Schools of Economics and Econometrics of Erasmus
           University Rotterdam (EUR), University of Amsterdam (UvA) and Vrije Universiteit Amsterdam (VU). Tinbergen Institute offers a selective research master 
           program in economics, econometrics and finance, connected to PhD opportunities. I have specialized in finance and econometrics.
       - degree: BSc in Economics and Business Economics (cum laude)
         university: Vrije Universiteit (VU) Amsterdam
-        time: 2017 - 2020
+        time: Sep 2017 - Aug 2020
         details: |
           During my studies I have specialized in finance and econometrics. I have swapped econometrics courses with courses from my bachelor, and I have
           finished a minor in econometrics. Next to coursework I worked for one year as a University Research Fellowship with prof. dr. Albert Menkveld.
@@ -82,29 +82,29 @@ experiences:
     title: Experiences
     info:
       - role: Economics Teacher
-        time: 2022 - Present
+        time: Okt 2022 - Present
         company: Andreas College
         details: |
           Teaching economics to high school students aged 13-17. Temporarily taking this job while searching for an industry related job and out of curiousity.
       - role: Graduate level student assistent
-        time: 2021 - 2022
+        time: Aug 2021 - Apr 2022
         company: Tinbergen Institute
         details: |
           I have taught programming in Python and Corporate Finance at graduate level to Tinbergen Institute and Business and Data Science students.
       - role: University Research Fellow
-        time: 2019 - 2020
+        time: Aug 2019 - Sep 2020
         company: Vrije Universiteit (VU) Amsterdam
         details: |
           As a University Research Fellow (URF) I have worked on various research projects together with prof. dr. Albert Menkveld. In particular
           I worked on a paper, which later became by bachelor's thesis, about the impact of Covid-19 on financial markets using state of the art time series models like 
           Vector Autoregressive and Vector Error Correction models. As a URF I worked mostly in Python.
       - role: Student representative
-        time: 2017 - 2020
+        time: Sep 2017 - Aug 2020
         company: Vrije Universiteit (VU) Amsterdam
         details: |
             As a student representative I have informed groups ranging from 50 till 300 students about studying economics and business economics at the Vrije Universiteit.
       - role: Programme committee member
-        time: 2017 - 2020
+        time: Sep 2017 - Aug 2020
         company: Vrije Universiteit (VU) Amsterdam
         details: |
             I was a member of the programme committee of economics and business economics, in which my main role was to advise the programme
