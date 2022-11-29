@@ -81,12 +81,12 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: University Research Fellow (including €10.000 research grant)
+      - role: University Research Fellow
         time: Aug 2019 - Sep 2020
         company: Vrije Universiteit (VU) Amsterdam
         details: |
-          As a University Research Fellow (URF) I have worked on various research projects together with prof. dr. Albert Menkveld. In particular
-          I worked on a paper, which later became by bachelor's thesis, about the impact of Covid-19 on financial markets using state of the art time series models like 
+          As a University Research Fellow (URF) I have worked on various research projects under the supervision of prof. dr. Albert Menkveld. For this positition I obtained a €10.000 research grant.
+          In particularI worked on a paper, which later became by bachelor's thesis, about the impact of Covid-19 on financial markets using state of the art time series models like 
           Vector Autoregressive and Vector Error Correction models. As a URF I worked mostly in Python.
       - role: Economics Teacher
         time: Okt 2022 - Present
