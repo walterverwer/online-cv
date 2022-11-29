@@ -81,6 +81,13 @@ education:
 experiences:
     title: Experiences
     info:
+    - role: University Research Fellow
+        time: Aug 2019 - Sep 2020
+        company: Vrije Universiteit (VU) Amsterdam
+        details: |
+          As a University Research Fellow (URF) I have worked on various research projects together with prof. dr. Albert Menkveld. In particular
+          I worked on a paper, which later became by bachelor's thesis, about the impact of Covid-19 on financial markets using state of the art time series models like 
+          Vector Autoregressive and Vector Error Correction models. As a URF I worked mostly in Python.
       - role: Economics Teacher
         time: Okt 2022 - Present
         company: Andreas College
@@ -91,13 +98,6 @@ experiences:
         company: Tinbergen Institute
         details: |
           I have taught programming in Python and Corporate Finance at graduate level to Tinbergen Institute and Business and Data Science students.
-      - role: University Research Fellow
-        time: Aug 2019 - Sep 2020
-        company: Vrije Universiteit (VU) Amsterdam
-        details: |
-          As a University Research Fellow (URF) I have worked on various research projects together with prof. dr. Albert Menkveld. In particular
-          I worked on a paper, which later became by bachelor's thesis, about the impact of Covid-19 on financial markets using state of the art time series models like 
-          Vector Autoregressive and Vector Error Correction models. As a URF I worked mostly in Python.
       - role: Student representative
         time: Sep 2017 - Aug 2020
         company: Vrije Universiteit (VU) Amsterdam
